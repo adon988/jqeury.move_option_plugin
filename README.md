@@ -10,7 +10,8 @@ Prepare JS:<br>
 2. JQuery.move.option.plugin.js 
 
 Prepare DOM:
-	<div class="group_box">
+
+	< div class="group_box">
 
 		<select id="sgroup_1" name="sgroup_1" size="7" multiple="multiple" >
 			<option value="1">1</option>
