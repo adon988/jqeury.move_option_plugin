@@ -6,8 +6,9 @@ jQuery Move Option Plugin Demo
 How to used: 
 
 Prepare JS:
-1. include jquery.min.js 
-2. include jquery.move.option.plugin.js 
+1. jquery.min.js 
+2. 
+2. jquery.move.option.plugin.js 
 
 Prepare DOM:
 	<div class="group_box">
@@ -35,7 +36,7 @@ Prepare DOM:
 	</div>
 
 Init function
-<script>
+
 $(function(){
 	$(".group_box").selected_controller({
 		selected   :"#sgroup_1",
@@ -44,7 +45,7 @@ $(function(){
 		on_arrow   : ".on_arrow"
 	})
 })
-</script>
+
 
 
 //end
